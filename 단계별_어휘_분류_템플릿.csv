@@ -1,0 +1,11 @@
+﻿index,word,definition,level,source,cefr,frequency,range
+1,apple,a round fruit with red or green skin,elementary,초등 영어 3-4학년,A1,7500,55
+2,book,a set of printed pages bound together,elementary,초등 영어 3-4학년,A1,7200,54
+1500,discover,to find something for the first time,middle,중2 교과서,B1,3400,35
+1510,experience,the process of doing or seeing things,middle,중3 교과서,B1,3100,34
+3000,indicate,to show or point out,high,고1 교과서,B2,2500,30
+3100,maintain,to continue something without change,high,고2 교과서,B2,2400,28
+5000,analyze,to study something in detail,csat,EBS 수능특강,C1,1400,22
+5100,interpret,to explain the meaning of something,csat,EBS 수능완성,C1,1350,20
+8000,reinforce,to make something stronger,csat_advanced,CSAT 31-45 고난이도,C1,800,12
+8500,manipulate,to control or influence cleverly,csat_advanced,비연계 고난도 지문,C2,650,9
